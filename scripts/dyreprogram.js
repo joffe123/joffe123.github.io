@@ -6,6 +6,6 @@ myImage.onclick = () => {
   if (mySrc === "images/Grosser_Panda.JPG") {
     myImage.setAttribute("src", "images/panda2.jpg"); 
   } else{
-    myImage.setAttribute("src", "images/Grosser_Panda.JPG");
+    myImage.setAttribute("src", "images/panda3.jpg);
    }
 };
